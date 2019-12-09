@@ -12,10 +12,10 @@ import mysql.connector
 Connect to ypur Database by entering this code
 ```python 
 mydb = mysql.connector.connect(
-	host="sql12.freesqldatabase.com",
-	user="sql12314392",
-	passwd="UvZQfdhPQs",
-	database="sql12314392"
+	host="Host name",
+	user="Username",
+	passwd="Password",
+	database="Database name"
   )
 ```
 ## Basic SQL commands
